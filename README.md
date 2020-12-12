@@ -36,11 +36,11 @@ Hello, I'm Henrique - a Senior FullStack Developer, working mostly on back end. 
 
 #### Database
 
-<img src="https://img.shields.io/badge/ElasticSearch-19bcb1" alt="ElasticSearch"/> <img src="https://img.shields.io/badge/MongoDB-50924A" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-00618B" alt="MySQL"/> <img src="https://img.shields.io/badge/Firebase-Cloud%20FireStore-FFCB2D" alt="Firebase Cloud FireStore"/>
+<img src="https://img.shields.io/badge/ElasticSearch-19bcb1" alt="ElasticSearch"/> <img src="https://img.shields.io/badge/MongoDB-50924A" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-00618B" alt="MySQL"/> <img src="https://img.shields.io/badge/Firebase-Cloud%20FireStore-FFCB2D" alt="Firebase Cloud FireStore"/>
 
 #### DevOps
 
-<img src="https://img.shields.io/badge/Docker-124A6A" alt="Docker"/> <img src="https://img.shields.io/badge/Makefile-CC6600" alt="Makefile"/> <img src="https://img.shields.io/badge/GitHub%20Actions-24292e" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Docker-124A6A" alt="Docker"/> <img src="https://img.shields.io/badge/Makefile-CC6600" alt="Makefile"/> <img src="https://img.shields.io/badge/GitHub%20Actions-24292e" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Heroku-430098" alt="Heroku"/>
 
 #### Queue
 
