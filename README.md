@@ -1,59 +1,48 @@
-# Henrique Leite - @henriqueleite42
+## Hi, I'm Henrique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hello, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, microservices standard, and functional programming.
+Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, microservices and functional programming.
 
-Extensive knowledge in the development, integration, documentation, and consumption of microservices and BFFs, in addition to the support given to other teams to facilitate the integration and understanding of the product as a whole.
+- 🤝 Founder of **[techmmunity](https://github.com/techmmunity)** (a Tech Community 😆)
+- ❤️ Passionate about challenges
+- 📦 Create of NPM packages in free time
+- ⌚️ Amateur teacher 24/7
+- 🧑‍💻 Tech enthusiast
+- 🍫 KitKat lover
 
-Experience working in teams using agile methodologies and tools for code standardization, doing pair programming, and code review.
+#### More About Me
 
-Founder of a developer community, Techmmunity, which focuses on helping people not only to enter the programming area but also to solve more complex logic problems and discuss interesting technologies, whether new or old.
+[![Resume Badge](https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e)](https://github.com/henriqueleite42/henriqueleite42/blob/master/resume/henrique-leite.pdf)
+[![Linkedin Badge](https://img.shields.io/badge/henriqueleite42-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueleite42/)
 
-## If You Are a Dev, Maybe You Like
+#### Top Skills
 
-- [My GitConfig](https://gist.github.com/henriqueleite42/e993564ea10aebbf0cc028ef1e84c081)
-- [How to Show Git Branch on Console](https://gist.github.com/henriqueleite42/be31bdf945e87660fbae1c12cb305467)
-- [@techmmunity/easy-check](https://www.npmjs.com/package/@techmmunity/easy-check)
-- [GitHub Action To Deploy Docker Image On Heroku](https://github.com/marketplace/actions/deploy-docker-image-to-heroku)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)]()
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)]()
+[![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)]()
+[![Microservices](https://img.shields.io/badge/Microservices-f79813.svg?style=for-the-badge)]()
 
-## More About Me
+#### Other Skilss
 
-<a href="https://drive.google.com/file/d/1PFe5zpgZbhpkQ2zdOQCwEEyoX9wY1z9N/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄 Resume-24292e"/>
-</a>
+[![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)]()
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&labelColor=black&logo=mocha&logoColor=8D6748)]()
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&labelColor=black&logo=eslint&logoColor=4B32C3)]()
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)]()
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)]()
+[![TypeORM](https://img.shields.io/badge/TypeORM-FE0902.svg?style=for-the-badge)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)]()
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900.svg?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)]()
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)]()
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0089D6)]()
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)]()
+[![REST](https://img.shields.io/badge/REST-339933.svg?style=for-the-badge)]()
 
-<a href="https://www.linkedin.com/in/henriqueleite42/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+#### Profile Visits
 
-## Skills
-
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white)]()
-[![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?&style=flat-square&logo=express&logoColor=white)]()
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white)]()
-[![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?&style=flat-square&logo=node.js&logoColor=white)]()
-
-[![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=flat-square&logo=jest&logoColor=white)]()
-[![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?&style=flat-square&logo=mocha&logoColor=white)]()
-
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat-square&logo=eslint&logoColor=white)]()
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?&style=flat-square&logo=prettier&logoColor=white)]()
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat-square&logo=swagger&logoColor=white)]()
-
-[![TypeORM](https://img.shields.io/badge/TypeORM-FE0902.svg?&style=flat-square)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=postgresql&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=redis&logoColor=white)]()
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717.svg?&style=flat-square&logo=github&logoColor=white)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=jenkins&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white)]()
-
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=flat-square&logo=google-cloud&logoColor=white)]()
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?&style=flat-square&logo=microsoft-azure&logoColor=white)]()
-
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat-square&logo=graphql&logoColor=white)]()
-[![Microservices](https://img.shields.io/badge/Microservices-f79813.svg?&style=flat-square)]()
-[![REST](https://img.shields.io/badge/REST-339933.svg?&style=flat-square)]()
+![visitors](https://visitor-badge.glitch.me/badge?page_id=henriqueleite42)
