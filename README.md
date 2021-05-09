@@ -2,7 +2,7 @@
 
 Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, microservices and functional programming.
 
-- 🤝 Founder of **[techmmunity](https://techmmunity.github.io/)** (a Tech Community 😆)
+- 🤝 Founder of **[Techmmunity](https://techmmunity.github.io/)** (a Tech Community 😆)
 - ❤️ Passionate about challenges
 - 📦 Create of NPM packages in free time
 - 🍎 Amateur teacher 24/7
