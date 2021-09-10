@@ -1,4 +1,4 @@
-## Hi, I'm Henrique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, microservices and functional programming.
 
@@ -11,8 +11,9 @@ Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, m
 
 #### More About Me
 
-[![Resume Badge](https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e)](https://github.com/henriqueleite42/henriqueleite42/blob/master/resume/henrique-leite.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/henriqueleite42-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueleite42/)
+[![Resume English Badge](<https://img.shields.io/badge/📄%20Resume%20(English)-24292e?style=for-the-badge&labelColor=24292e>)](https://github.com/henriqueleite42/henriqueleite42/blob/master/resume/henrique_leite-EN.pdf)
+[![Resume Portuguese Badge](<https://img.shields.io/badge/📄%20Curr%C3%ADculo%20(Portugu%C3%AAs)-24292e?style=for-the-badge&labelColor=24292e>)](https://github.com/henriqueleite42/henriqueleite42/blob/master/resume/henrique_leite-PT_BR.pdf)
 
 #### Top Skills
 
@@ -23,10 +24,10 @@ Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, m
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)]()
 [![Microservices](https://img.shields.io/badge/Microservices-f79813.svg?style=for-the-badge)]()
 
-#### Other Skilss
+#### Other Skills
 
+[![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&labelColor=black&logo=serverless&logoColor=FD5750)]()
 [![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)]()
-[![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&labelColor=black&logo=mocha&logoColor=8D6748)]()
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&labelColor=black&logo=eslint&logoColor=4B32C3)]()
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)]()
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)]()
@@ -41,6 +42,8 @@ Hi, I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, m
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)]()
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0089D6)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)]()
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&labelColor=black&logo=sonarqube&logoColor=4E9BCD)]()
+[![Software Architecture](https://img.shields.io/badge/Software%20Architecture-f79813.svg?style=for-the-badge)]()
 [![REST](https://img.shields.io/badge/REST-339933.svg?style=for-the-badge)]()
 
 #### Profile Visits
