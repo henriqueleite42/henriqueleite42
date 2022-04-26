@@ -9,7 +9,7 @@ Currently I'm studying about blockchain and smart contracts, because I belive th
 - 🤝 Founder of **[Techmmunity](https://github.com/search?q=techmmunity)** (a Tech Community 😆)
 - ❤️ Passionate about challenges
 - 📦 Creator of NPM packages in free time
-  - [Symbiosis](https://symbiosis.techmmunity.com.br/) is my favorite son, but don't tell the others 👀
+  - [Symbiosis](https://symbiosis.techmmunity.com.br/) is my favorite child, but don't tell the others 👀
 - 🍎 Amateur teacher 24/7
 - 🧑‍💻 Tech enthusiast
 - 🍫 KitKat lover
