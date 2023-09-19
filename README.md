@@ -4,8 +4,6 @@
 
 I'm Henrique Leite, a Senior BackEnd developer with a focus on Typescript, microservices and functional programming.
 
-Currently I'm studying about blockchain and smart contracts, because I belive that they aren't the future, but **the present**.
-
 - 🤝 Founder of **[Techmmunity](https://github.com/search?q=techmmunity)** (a Tech Community 😆)
 - ❤️ Passionate about challenges
 - 📦 Creator of NPM packages in free time
